@@ -11,7 +11,7 @@
             "required": true 
         },
         "BOT_TOKEN": {
-            "description": "𝙿𝚞𝚝 𝙱𝚘𝚝 𝚃𝚘𝚔𝚎𝚗 𝙾𝚏 𝚈𝚘𝚞𝚛 𝙱𝚘𝚝",
+            "description": "𝙿𝚞𝚝 𝙱𝚘𝚝 𝚃𝚘𝚔𝚎𝚗 𝙾𝚏 𝚈𝚘𝚞𝚛 𝙱𝚘𝚝 Use Botfather",
             "required": true
         },
          "OWNER_USERNAME": {
