@@ -1,8 +1,8 @@
 # ɴɪsᴛʜᴀ ᴍᴜsɪᴄ
-
+ update 2.0
 <p align="center"><img src="https://graph.org/file/1aa17a6f7725b70e05f62.jpg" width="300"></a></p>
 <p align="center">
-
+ 
 
 <p align="center">
 <b>𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</b>
